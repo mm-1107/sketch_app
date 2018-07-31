@@ -1,2 +1,3 @@
 # sketch_app
-お絵かきアプリ
+- javaで作ったお絵かきアプリ
+- [説明書](pdf/instructions.pdf)
